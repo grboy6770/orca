@@ -361,6 +361,7 @@ const MOBILE_RPC_METHOD_ALLOWLIST = new Set([
   'terminal.ensureAgentSession',
   'terminal.focus',
   'terminal.agentStatus',
+  'terminal.adoptOrphans',
   'terminal.getAutoRestoreFit',
   'terminal.isRunningAgent',
   'terminal.list',
